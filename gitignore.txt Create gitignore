@@ -1,8 +1,4 @@
 
-
-ཁ་བྱང་། .gitignore
-
-
 # Ignore audio files
 *.mp3
 *.wav
